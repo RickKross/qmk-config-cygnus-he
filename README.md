@@ -18,3 +18,5 @@ QMK configuration for the **Cygnus** keyboard with **magnetic Hall effect switch
    ```bash
    make cygnus_he:default
    ```
+4. Flash the generated .bin (or .uf2) file to your board using bootloader mode
+_(bootloader entry method may vary depending on your board)_

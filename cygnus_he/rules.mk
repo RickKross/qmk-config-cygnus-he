@@ -1,0 +1,8 @@
+SRC += matrix.c
+SRC += utils.c
+
+CUSTOM_MATRIX = lite
+ANALOG_DRIVER_REQUIRED = yes
+
+AUTO_SHIFT_ENABLE = yes
+COMBO_ENABLE = yes
